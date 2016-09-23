@@ -1,0 +1,4 @@
+To reproduce:
+```
+./gradlew assembleDebug
+```
